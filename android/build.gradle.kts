@@ -13,15 +13,15 @@ repositories {
 
 dependencies {
     implementation(project(":common"))
-    implementation("androidx.activity:activity-compose:1.3.0-alpha03")
+    implementation("androidx.activity:activity-compose:1.3.0-alpha07")
 }
 
 android {
-    compileSdkVersion(29)
+    compileSdkVersion(30)
     defaultConfig {
         applicationId = "pxnx.android"
-        minSdkVersion(24)
-        targetSdkVersion(29)
+        minSdkVersion(24) //switch to 21 maybe?
+        targetSdkVersion(30)
         versionCode = 1
         versionName = "1.0"
     }
