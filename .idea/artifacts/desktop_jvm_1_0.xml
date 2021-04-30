@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="desktop-jvm-1.0">
+    <output-path>C:\Users\Pentex\Downloads\samples-master\samples-master\IDE\IntelliJ\Modular\Gradle\Exmatrikulator-Compose-Multiplatform\desktop\build\libs</output-path>
+    <root id="archive" name="desktop-jvm-1.0.jar">
+      <element id="module-output" name="Exmatrikulator-Compose-Multiplatform.desktop.jvmMain" />
+    </root>
+  </artifact>
+</component>
